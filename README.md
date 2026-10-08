@@ -1,5 +1,5 @@
 # Sunrise Clinic: Front Desk Agent
-
+ 
 A Python REST API with a conversational front-desk agent over six tools, plus a React operator UI
 (Handoff Queue, Conversation Detail, and two supporting screens). Synthetic data only.
 
